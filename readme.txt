@@ -10,15 +10,15 @@ Stable tag: 1.1.0
 After installing this plugin users will be able to use HTML in their author biographical Info.
 
 == Installation ==
-1. Upload to `/wp-content/plugins/` directory
-2. Activate the plugin in the 'Plugins' menu in WordPress
+1. Upload the downloaded zipped of the plugin to `/wp-content/plugins/` directory.
+2. Hit the Install and Activate the plugin in the 'Plugins' menu in WordPress.
 
 == Changelog ==
 
 = 1.1.0 = 
-- ⚡️ IMPROVE: Better Documentation
-- ⚡️ IMPROVE: Code via WordPress Coding Standards
-- ⚡️ NEW: Plugin info.
+- ⚡️IMPROVE: Better Documentation
+- ⚡️IMPROVE: Code via WordPress Coding Standards
+- ⚡️NEW: Plugin info.
 
 = 1.0.0 = 
 First release.
@@ -30,5 +30,5 @@ After installing this plugin users will be able to use HTML in their author biog
 
 == Frequently Asked Questions == 
 * Can anyone on my blog use HTML in their biographical info?
--- Ans: Yes, that's true. Every user!
+-- Ans: Yes, Every user can use HTML in their biographical info.
 
