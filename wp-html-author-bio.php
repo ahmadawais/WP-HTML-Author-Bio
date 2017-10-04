@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP HTML Author Bio
  * Plugin URI: https://github.com/ahmadawais/WP-HTML-Author-Bio
- * Description: Allows you to use HTML and rel= in author's bio , this helps you to get indexed as an author in Google Seearch.
+ * Description: Allows you to use HTML and rel= in author's bio, this helps you to get indexed as an author in Google Seearch.
  * Author: mrahmadawais, MaedahBatool, WPTie
  * Author URI: http://AhmadAwais.com/
  * Version: 1.1.0
