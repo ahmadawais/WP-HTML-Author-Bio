@@ -1,5 +1,5 @@
 === WP HTML Author Bio ===
-Contributors: mrahmadawais, maedahbatool
+Contributors: mrahmadawais, maedahbatool, wptie
 Donate link: http://AhmadAwais.com/contact
 Tags: google, authors, me, rel, HTML, bio, description, author, user, html bio, html description
 Requires at least: 4.0.0
@@ -15,12 +15,12 @@ After installing this plugin users will be able to use HTML in their author biog
 
 == Changelog ==
 
-= 1.1.0 = 
+= 1.1.0 =
 - ⚡️ IMPROVE: Better Documentation
 - ⚡️ IMPROVE: Code via WordPress Coding Standards
 - ⚡️ NEW: Plugin info.
 
-= 1.0.0 = 
+= 1.0.0 =
 First release.
 
 == Screenshots ==
@@ -28,7 +28,7 @@ First release.
 After installing this plugin users will be able to use HTML in their author biographical Info.
 ![WP HTML Author Bio](https://i.imgur.com/b9GHP1Y.png)
 
-== Frequently Asked Questions == 
+== Frequently Asked Questions ==
 * Can anyone on my blog use HTML in their biographical info?
 -- Ans: Yes, that's true. Every user!
 
