@@ -4,7 +4,7 @@ Donate link: http://AhmadAwais.com/contact
 Tags: google, authors, me, rel, HTML, bio, description, author, user, html bio, html description
 Requires at least: 4.0.0
 Tested up to: 5.3
-Stable tag: 1.1.0
+Stable tag: 1.1.2
 
 == Description ==
 After installing this plugin users will be able to use HTML in their author biographical Info.
