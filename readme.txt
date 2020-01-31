@@ -31,4 +31,3 @@ After installing this plugin users will be able to use HTML in their author biog
 == Frequently Asked Questions ==
 * Can anyone on my blog use HTML in their biographical info?
 -- Ans: Yes, that's true. Every user!
-
