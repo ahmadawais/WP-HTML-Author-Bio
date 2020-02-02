@@ -19,7 +19,7 @@ After installing this plugin you can use HTML in the biographical info section o
 
 ## Changelog
 
-[❯ Read the changelog here →](changelog.md)
+[❯ Read the changelog here →](https://github.com/ahmadawais/WP-HTML-Author-Bio/blob/master/changelog.md)
 
 <br>
 
