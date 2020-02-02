@@ -4,10 +4,10 @@ Donate link: http://AhmadAwais.com/contact
 Tags: google, authors, me, rel, HTML, bio, description, author, user, html bio, html description
 Requires at least: 4.0.0
 Tested up to: 5.3
-Stable tag: 1.1.2
+Stable tag: 1.2.0
 
 == Description ==
-After installing this plugin users will be able to use HTML in their author biographical Info.
+After installing this plugin you can use HTML in the biographical info section of a WordPress profile.
 
 == Installation ==
 1. Upload to `/wp-content/plugins/` directory
@@ -15,19 +15,38 @@ After installing this plugin users will be able to use HTML in their author biog
 
 == Changelog ==
 
-= 1.1.0 =
-- ⚡️ IMPROVE: Better Documentation
-- ⚡️ IMPROVE: Code via WordPress Coding Standards
-- ⚡️ NEW: Plugin info.
+[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
-= 1.0.0 =
-First release.
+## Changelog
+
+[❯ Read the changelog here →](changelog.md)
+
+<br>
+
+<small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+
+> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
+
+</small>
+
+<br>
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
+
+## License & Conduct
+
+- MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
+- [Code of Conduct](https://github.com/ahmadawais/WP-HTML-Author-Bio/blob/master/code-of-conduct.md)
+
+<br>
 
 == Screenshots ==
 
-After installing this plugin users will be able to use HTML in their author biographical Info.
+After installing this plugin you can use HTML in the biographical info section of a WordPress profile.
+
 ![WP HTML Author Bio](https://i.imgur.com/b9GHP1Y.png)
 
 == Frequently Asked Questions ==
-* Can anyone on my blog use HTML in their biographical info?
--- Ans: Yes, that's true. Every user!
+
+> **Q: Can anyone on my blog use HTML in their biographical info?**<br>
+> Yes, that's true. Every user! You've been warned.
