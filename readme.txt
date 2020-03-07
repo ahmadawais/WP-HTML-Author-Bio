@@ -3,7 +3,7 @@ Contributors: mrahmadawais, maedahbatool, wptie
 Donate link: http://AhmadAwais.com/contact
 Tags: google, authors, me, rel, HTML, bio, description, author, user, html bio, html description
 Requires at least: 4.0.0
-Tested up to: 5.3
+Tested up to: 5.4
 Stable tag: 1.2.0
 
 == Description ==
